@@ -34,10 +34,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639173056717)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%23ffffff.svg?style=for-the-badge&logo=Google%20Scholar&logoColor=blue)](https://scholar.google.com/citations?user=bu33uNwAAAAJ&hl=en)
 
-
-
-
-
 <!--
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruzckotobias)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](pf.kakao.com/ruzcko/chat)
