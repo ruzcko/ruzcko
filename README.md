@@ -1,14 +1,13 @@
 
-![Exploring the cosmos](https://github.com/ruzcko/ruzcko/assets/67700033/cf649861-6963-43f9-8109-d691a5a481d1)
+![exploring_the_cosmos](https://github.com/ruzcko/ruzcko/assets/67700033/755cc4e7-ae22-4f5d-9698-8f72ad368948)
 
-### Hi there 👋, my name is Ruzcko 🤓
+### Hello there! I'm Ruzcko 🤓
 
-- 🦄 I'm a graduate student at Ulsan National Institute of Science and Technology (UNIST), South Korea.
-- 🎓 I'm taking up PhD in Artificial Intelligence 
-- 🔭 I’m currently part of the Machine Learning, Vision, and Language Laboratory
-- 🌱 I’m currently learning about Multimodal AI
-- 👯 I’m looking to collaborate on any AI projects
-- 🤔 I’m looking for help with GitHub as I am new here
+- 🎓 Currently pursuing a PhD in Artificial Intelligence at Ulsan National Institute of Science and Technology (UNIST) 🦄, South Korea.
+- 🧠 Part of the Machine Learning, Vision, and Language Laboratory.
+- 🚀 Diving deep into Multimodal AI.
+- 💡 Open to collaboration on AI-related projects.
+- 🆘 New to GitHub and would appreciate any guidance or tips!
 
 #### My stats:
 
@@ -42,6 +41,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ruzcko)
 
 ![Ruzcko_Hello world!](https://github.com/ruzcko/ruzcko/assets/67700033/6b9525a8-09d8-4037-8383-002305628418)
+
+### Hi there 👋, my name is Ruzcko 🤓
+
+- 🦄 I'm a graduate student at Ulsan National Institute of Science and Technology (UNIST), South Korea.
+- 🎓 I'm taking up PhD in Artificial Intelligence 
+- 🔭 I’m currently part of the Machine Learning, Vision, and Language Laboratory
+- 🌱 I’m currently learning about Multimodal AI
+- 👯 I’m looking to collaborate on any AI projects
+- 🤔 I’m looking for help with GitHub as I am new here
 
 <!--
 **ruzcko/ruzcko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
