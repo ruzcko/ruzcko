@@ -1,4 +1,5 @@
-![Ruzcko_Hello world!](https://github.com/ruzcko/ruzcko/assets/67700033/6b9525a8-09d8-4037-8383-002305628418)
+
+![Exploring the cosmos](https://github.com/ruzcko/ruzcko/assets/67700033/cf649861-6963-43f9-8109-d691a5a481d1)
 
 ### Hi there 👋, my name is Ruzcko 🤓
 
@@ -40,7 +41,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ruzcko)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ruzcko)
 
-
+![Ruzcko_Hello world!](https://github.com/ruzcko/ruzcko/assets/67700033/6b9525a8-09d8-4037-8383-002305628418)
 
 <!--
 **ruzcko/ruzcko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
