@@ -1,13 +1,4 @@
-
-![exploring_the_cosmos](https://github.com/ruzcko/ruzcko/assets/67700033/755cc4e7-ae22-4f5d-9698-8f72ad368948)
-
-### Hello there! I'm Ruzcko 🤓
-
-- 🎓 Currently pursuing a PhD in Artificial Intelligence at Ulsan National Institute of Science and Technology (UNIST) 🦄, South Korea.
-- 🧠 Part of the Machine Learning, Vision, and Language Laboratory.
-- 🚀 Diving deep into Multimodal AI.
-- 💡 Open to collaboration on AI-related projects.
-- 🆘 New to GitHub and would appreciate any guidance or tips!
+## Ruzcko Tobias
 
 #### My stats:
 
@@ -15,16 +6,10 @@
 
 ![Ruzcko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzcko&show_icons=true&theme=swift&rank_icon=github&card_width=500)
 
-#### My tech stack:
+#### Main tech stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Google Colab](https://img.shields.io/badge/Google_Colab-white.svg?style=for-the-badge&logo=Google%20Colab&logoColor=FBBC05)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
 
 #### Connect with me:
 
@@ -35,6 +20,12 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%23ffffff.svg?style=for-the-badge&logo=Google%20Scholar&logoColor=blue)](https://scholar.google.com/citations?user=bu33uNwAAAAJ&hl=en)
 
 <!--
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-white.svg?style=for-the-badge&logo=Google%20Colab&logoColor=FBBC05)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruzckotobias)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](pf.kakao.com/ruzcko/chat)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ruzcko)
