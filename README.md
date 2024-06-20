@@ -4,8 +4,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruzcko@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%23ffffff.svg?style=for-the-badge&logo=Google%20Scholar&logoColor=blue)](https://scholar.google.com/citations?user=bu33uNwAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruzcko)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruzcko/)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruzcko)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ruzckotobias)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639173056717)
 
 #### Main tech stack:
