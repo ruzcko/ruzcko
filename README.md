@@ -1,5 +1,8 @@
 ## Ruzcko Tobias
 
+#### Currently:
+- A Graduate Student at [Ulsan National Institute of Science and Technology](https://www.unist.ac.kr/) 📍 South Korea
+
 #### Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruzcko@gmail.com)
