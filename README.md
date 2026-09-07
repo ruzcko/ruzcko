@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  PhD in AI in progress at <a href="https://www.unist.ac.kr/">UNIST</a> · <a href="https://irisunist.wixsite.com/irislab">IRIS Lab</a> · South Korea 🇰🇷
+  PhD in Progress
 </p>
 
 <p align="center">
@@ -25,6 +25,8 @@
 **Artificial intelligence** — how machines learn, understand, and turn information into something useful.
 
 I'm especially curious about **machine learning, computer vision, and multimodal AI**. This is where I try ideas, run experiments, and figure things out along the way.
+
+I'm excited about **AI for weather and climate**—connecting satellite observations with other real-world data to help people anticipate risks and make better decisions.
 
 > Train. Debug. Learn. Repeat. 🔁
 
