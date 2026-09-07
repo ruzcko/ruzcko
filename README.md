@@ -24,7 +24,7 @@
 
 **Artificial intelligence** — how machines learn, understand, and turn information into something useful.
 
-I'm especially curious about **machine learning, computer vision, and multimodal AI**. This is where I try ideas, run experiments, and figure things out along the way.
+I'm especially curious about **machine learning, computer vision, and multimodal AI**. I like asking questions, testing ideas, and making AI useful to more people.
 
 I'm excited about **AI for weather and climate**—connecting satellite observations with other real-world data to help people anticipate risks and make better decisions.
 
