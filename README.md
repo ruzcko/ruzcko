@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=Curious+about+AI;Exploring+how+machines+learn" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=0F8A9D&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=Curious+about+AI;Exploring+how+machines+learn" alt="Curious about AI. Exploring how machines learn." width="640" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=AI+research;Weather+%26+climate;Work+in+progress" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=0F8A9D&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=AI+research;Weather+%26+climate;Work+in+progress" alt="AI research. Weather &amp; climate. Work in progress." width="640" />
     </picture>
   </a>
 </p>
@@ -23,9 +23,11 @@
 
 ## 🧠 My focus
 
-**Artificial intelligence**, especially machine learning, computer vision, and multimodal AI.
+Constantly in the AI rabbit hole, following interesting questions and seeing where they lead. (Usually more questions 😅)
 
-I'm interested in **AI for weather and climate**, using satellite and other data to help people understand risks and make better decisions.
+Currently working on **AI for weather and climate**, using satellite and other Earth observation data to support climate resilience and disaster risk reduction.
+
+Always up for exchanging ideas and collaborating. **Hit me up!**
 
 ## ⚡ GitHub activity
 
@@ -52,7 +54,10 @@ I'm interested in **AI for weather and climate**, using satellite and other data
 ---
 
 <p align="center">
-  <a href="mailto:ruzcko@gmail.com">Gmail</a> · <a href="https://www.kaggle.com/ruzckotobias">Kaggle</a> · <a href="https://orcid.org/0000-0003-3353-6074">ORCID</a> · <a href="https://wa.me/639173056717">WhatsApp</a>
+  <a href="mailto:ruzcko@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.kaggle.com/ruzckotobias"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
+  <a href="https://orcid.org/0000-0003-3353-6074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://wa.me/639173056717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards. -->
