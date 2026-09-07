@@ -18,7 +18,7 @@
   <a href="https://ruzcko.github.io/"><img src="https://img.shields.io/badge/Website-0F8A9D?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Website" /></a>
   <a href="https://scholar.google.com/citations?user=bu33uNwAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.linkedin.com/in/ruzcko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:ruzcko@unist.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+  <a href="mailto:ruzcko@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
   <a href="https://www.kaggle.com/ruzckotobias"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
   <a href="https://orcid.org/0000-0003-3353-6074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
   <a href="https://wa.me/639173056717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
