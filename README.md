@@ -19,6 +19,9 @@
   <a href="https://scholar.google.com/citations?user=bu33uNwAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.linkedin.com/in/ruzcko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:ruzcko@unist.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+  <a href="https://www.kaggle.com/ruzckotobias"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
+  <a href="https://orcid.org/0000-0003-3353-6074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://wa.me/639173056717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ## 🧠 My focus
@@ -27,7 +30,7 @@ Constantly in the AI rabbit hole, following interesting questions and seeing whe
 
 Currently working on **AI for weather and climate**, using satellite and other Earth observation data to support climate resilience and disaster risk reduction.
 
-Always up for exchanging ideas and collaborating. **Hit me up!**
+Always up for exchanging ideas and collaborating. **Hit me up!** <a href="https://wa.me/639173056717" title="Message me on WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="18" height="18" /></a> <a href="mailto:ruzcko@unist.ac.kr" title="Send me an email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="18" height="18" /></a>
 
 ## ⚡ GitHub activity
 
@@ -51,13 +54,5 @@ Always up for exchanging ideas and collaborating. **Hit me up!**
   <sub><a href="https://github.com/ruzcko?tab=overview">View activity →</a></sub>
 </p>
 
----
-
-<p align="center">
-  <a href="mailto:ruzcko@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.kaggle.com/ruzckotobias"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
-  <a href="https://orcid.org/0000-0003-3353-6074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="https://wa.me/639173056717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
-</p>
 
 <!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards. -->
