@@ -1,47 +1,60 @@
-# Rogelio Ruzcko Tobias
+<h1 align="center">Hey, I'm Ruzcko 👋</h1>
 
-**PhD Researcher in Artificial Intelligence · AI for Earth Observation**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=Exploring+artificial+intelligence;Training+models.+Debugging+ideas.;Always+learning%2C+always+experimenting." />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=0F8A9D&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=Exploring+artificial+intelligence;Training+models.+Debugging+ideas.;Always+learning%2C+always+experimenting." alt="Exploring artificial intelligence. Training models. Debugging ideas. Always learning, always experimenting." width="640" />
+    </picture>
+  </a>
+</p>
 
-[Website](https://ruzcko.github.io/) · [Publications](https://ruzcko.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=bu33uNwAAAAJ) · [ORCID](https://orcid.org/0000-0003-3353-6074) · [LinkedIn](https://www.linkedin.com/in/ruzcko/)
+<p align="center">
+  PhD in AI in progress at <a href="https://www.unist.ac.kr/">UNIST</a> · <a href="https://irisunist.wixsite.com/irislab">IRIS Lab</a> · South Korea 🇰🇷
+</p>
 
-I'm a PhD researcher at [Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr/) and a member of [IRIS Lab](https://irisunist.wixsite.com/irislab) in South Korea. I develop machine learning and computer vision methods for remote sensing, Earth observation, and climate-related applications.
+<p align="center">
+  <a href="https://ruzcko.github.io/"><img src="https://img.shields.io/badge/Website-0F8A9D?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://scholar.google.com/citations?user=bu33uNwAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/ruzcko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:ruzcko@unist.ac.kr"><img src="https://img.shields.io/badge/Say_hi-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+</p>
 
-## Research
+## 🧠 My focus
 
-My work focuses on extracting reliable information from satellite imagery:
+**Artificial intelligence** — how machines learn, understand, and turn information into something useful.
 
-- **Change detection:** identifying changes in the Earth's surface from satellite observations.
-- **Synthetic data and data-efficient learning:** improving learning when labeled observations are limited.
-- **Multimodal Earth observation:** studying methods that work across sensors, regions, and environmental conditions.
+I'm especially curious about **machine learning, computer vision, and multimodal AI**. This is where I try ideas, run experiments, and figure things out along the way.
 
-## Featured publication
+> Train. Debug. Learn. Repeat. 🔁
 
-**[SAMBA: Synthetic Data-Augmented Mamba-Based Change Detection Algorithm Using KOMPSAT-3A Imagery](https://doi.org/10.7780/kjrs.2024.40.6.3.11)**
+## ⚡ GitHub activity
 
-Rogelio Ruzcko Tobias, Sejeong Bae, Hwanhee Cho, and Jungho Im
+<p align="center">
+  <a href="https://github.com/ruzcko?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ruzcko&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;border_radius=16&amp;card_width=520&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22&amp;custom_title=Ruzcko%27s+GitHub+activity" />
+      <img src="https://github-stats-extended.vercel.app/api?username=ruzcko&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;border_radius=16&amp;card_width=520&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9&amp;custom_title=Ruzcko%27s+GitHub+activity" alt="Ruzcko's public GitHub stats" width="520" />
+    </picture>
+  </a>
+</p>
 
-*Korean Journal of Remote Sensing*, 40(6), 1505–1521, 2024.
+<a href="https://github.com/ruzcko?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzcko&amp;name=Ruzcko&amp;theme=github_dark&amp;animation=rgb-soft&amp;duration=10&amp;bg_color=161B22&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;chart_color=5EEAD4" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzcko&amp;name=Ruzcko&amp;theme=github&amp;animation=rgb-soft&amp;duration=10&amp;bg_color=F1F5F9&amp;title_color=0F8A9D&amp;text_color=334155&amp;chart_color=0F8A9D" alt="My GitHub contribution history with an animated color effect" width="100%" />
+  </picture>
+</a>
 
-A synthetic-data-augmented Mamba approach to change detection with KOMPSAT-3A satellite imagery.
+<p align="center">
+  <sub><a href="https://github.com/ruzcko?tab=overview">More commits, experiments, and activity on GitHub →</a></sub>
+</p>
 
-[View all publications →](https://ruzcko.github.io/publications/)
+---
 
-## Tools
+<p align="center">
+  Got an interesting AI idea? Let's talk. 💬<br />
+  <a href="mailto:ruzcko@gmail.com">Gmail</a> · <a href="https://www.kaggle.com/ruzckotobias">Kaggle</a> · <a href="https://orcid.org/0000-0003-3353-6074">ORCID</a> · <a href="https://wa.me/639173056717">WhatsApp</a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-I also work with scikit-learn, pandas, NumPy, Matplotlib, Seaborn, SQL, and MATLAB.
-
-## Connect
-
-[Academic email](mailto:ruzcko@unist.ac.kr) · [Gmail](mailto:ruzcko@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ruzcko/) · [Kaggle](https://www.kaggle.com/ruzckotobias) · [WhatsApp](https://wa.me/639173056717)
-
-<details>
-<summary>GitHub activity</summary>
-
-![Ruzcko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzcko&show_icons=true&theme=swift&rank_icon=github&card_width=500)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzcko&layout=compact&card_width=500)
-
-</details>
+<!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards. -->
