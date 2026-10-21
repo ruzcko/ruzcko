@@ -15,13 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ruzcko.github.io/"><img src="https://img.shields.io/badge/Website-0F8A9D?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://ruzcko.com/"><img src="https://img.shields.io/badge/Website-0F8A9D?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Website" /></a>
   <a href="https://scholar.google.com/citations?user=bu33uNwAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.linkedin.com/in/ruzcko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:ruzcko@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
-  <a href="https://www.kaggle.com/ruzckotobias"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
-  <a href="https://orcid.org/0000-0003-3353-6074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="https://wa.me/639173056717"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ## 🧠 My focus
@@ -30,9 +27,29 @@ Constantly in the AI rabbit hole, following interesting questions and seeing whe
 
 Currently working on **AI for weather and climate**, using satellite and other Earth observation data to support climate resilience and disaster risk reduction.
 
-Always up for exchanging ideas and collaborating. **Hit me up!** <a href="https://wa.me/639173056717" title="Message me on WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="18" height="18" /></a> <a href="mailto:ruzcko@unist.ac.kr" title="Send me an email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="18" height="18" /></a>
+Always up for exchanging ideas and collaborating. **Hit me up!** <a href="mailto:ruzcko@gmail.com" title="Send me an email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="18" height="18" /></a>
+
+## 🛠️ Things I've built
+
+### Featured
+
+<p align="center">
+  <a href="https://github.com/ruzcko/awesome-precipitation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="awesome-precipitation" width="49%" /></picture></a>
+</p>
+
+### Passion projects
+
+<p align="center">
+  <a href="https://github.com/ruzcko/ai-deadlines"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="ai-deadlines" width="49%" /></picture></a>
+  <a href="https://github.com/ruzcko/pasado"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="pasado" width="49%" /></picture></a>
+  <a href="https://github.com/ruzcko/catalogo-1849"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="catalogo-1849" width="49%" /></picture></a>
+</p>
 
 ## ⚡ GitHub activity
+
+<p align="center">
+  <a href="https://github.com/ruzcko?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" /><img src="./profile-3d-contrib/profile-green-animate.svg" alt="My GitHub contributions drawn as a 3D city skyline" width="100%" /></picture></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ruzcko?tab=repositories">
@@ -55,4 +72,4 @@ Always up for exchanging ideas and collaborating. **Hit me up!** <a href="https:
 </p>
 
 
-<!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards. -->
+<!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards, yoshi389111/github-profile-3d-contrib. -->
