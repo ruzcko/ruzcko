@@ -32,30 +32,10 @@ Always up for exchanging ideas and collaborating. **Hit me up!** <a href="mailto
 ## 🛠️ Things I've built
 
 <p align="center">
-  <a href="https://github.com/ruzcko/ai-deadlines">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" />
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="ai-deadlines" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/ruzcko/pasado">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" />
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="pasado" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/ruzcko/catalogo-1849">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" />
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="catalogo-1849" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/ruzcko/awesome-precipitation">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" />
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="awesome-precipitation" width="49%" />
-    </picture>
-  </a>
+  <a href="https://github.com/ruzcko/ai-deadlines"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=ai-deadlines&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="ai-deadlines" width="49%" /></picture></a>
+  <a href="https://github.com/ruzcko/pasado"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=pasado&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="pasado" width="49%" /></picture></a>
+  <a href="https://github.com/ruzcko/catalogo-1849"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=catalogo-1849&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="catalogo-1849" width="49%" /></picture></a>
+  <a href="https://github.com/ruzcko/awesome-precipitation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22" /><img src="https://github-stats-extended.vercel.app/api/pin?username=ruzcko&amp;repo=awesome-precipitation&amp;hide_border=true&amp;border_radius=16&amp;title_color=0F8A9D&amp;icon_color=0F8A9D&amp;text_color=334155&amp;bg_color=F1F5F9" alt="awesome-precipitation" width="49%" /></picture></a>
 </p>
 
 ## ⚡ GitHub activity
