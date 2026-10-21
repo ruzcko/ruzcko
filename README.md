@@ -48,6 +48,10 @@ Always up for exchanging ideas and collaborating. **Hit me up!** <a href="mailto
 ## ⚡ GitHub activity
 
 <p align="center">
+  <a href="https://github.com/ruzcko?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" /><img src="./profile-3d-contrib/profile-green-animate.svg" alt="My GitHub contributions drawn as a 3D city skyline" width="100%" /></picture></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ruzcko?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ruzcko&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;border_radius=16&amp;card_width=520&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;bg_color=161B22&amp;custom_title=Ruzcko%27s+GitHub+activity" />
@@ -68,4 +72,4 @@ Always up for exchanging ideas and collaborating. **Hit me up!** <a href="mailto
 </p>
 
 
-<!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards. -->
+<!-- README widgets: DenverCoder1/readme-typing-svg, stats-organization/github-stats-extended, vn7n24fzkq/github-profile-summary-cards, yoshi389111/github-profile-3d-contrib. -->
